@@ -1,6 +1,5 @@
 ﻿body {
   margin:0px;
-  background-image:none;
   position:static;
   left:auto;
   width:1400px;
@@ -20,7 +19,7 @@
   width:1400px;
   height:1600px;
   background:inherit;
-  background-color:rgba(45, 58, 75, 1);
+  background-color:rgb(25, 43, 66);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
